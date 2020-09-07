@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+passengers.csv
+Tones.csv
+plots.cpython-38.pyc
+index.cpython-38.pyc
+dataframes.cpython-38.pyc
